@@ -94,7 +94,7 @@
 
 /* image slider */
 * {box-sizing: border-box}
-.mySlides1, .mySlides2, {display: none}
+.mySlides3, .mySlides1, .mySlides2, {display: none}
 img {vertical-align: middle;}
 .mySlides {
 	display: block;
