@@ -3514,3 +3514,9 @@ img {vertical-align: middle;}
 		font-weight: 250 !important;
 	}
 }
+.slideshow-container-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
