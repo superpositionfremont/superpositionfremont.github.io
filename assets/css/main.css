@@ -107,6 +107,15 @@ img {vertical-align: middle;}
   margin: 10px 10px 50px 10px;
 }
 
+.slideshow-container-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     height: 80vh;
+    margin: 0; 
+    padding: 0;
+}
+
 @media screen and (max-width:800px) {
 	.slideshow-container, img{
 		width: 100% !important;
@@ -3514,9 +3523,4 @@ img {vertical-align: middle;}
 		font-weight: 250 !important;
 	}
 }
-.slideshow-container-wrapper {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh; 
-}
+
